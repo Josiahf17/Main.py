@@ -1,5 +1,9 @@
-# Python Starter
+Introduction
 
-Quickly get started with [Python](https://www.python.org/) using this starter! 
+This is a repository created by Josiah
 
-- If you want to upgrade Python, you can change the image in the [Dockerfile](./.devcontainer/Dockerfile).
+Usage
+
+Run this command to execute the application:
+
+main.py
