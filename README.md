@@ -1,9 +1,10 @@
-Introduction
+#Introduction
 
 This is a repository created by Josiah
 
-Usage
+##Usage
 
 Run this command to execute the application:
 
-main.py
+"main.py"
+
