@@ -1,1 +1,2 @@
-print("Hello Manor!")
+def startup_menu():
+  print("")
