@@ -6,4 +6,4 @@ def startup_menu():
     print("Get Help")
     print("Exit")
 
-    startup_menu()
+startup_menu()
