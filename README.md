@@ -1,10 +1,4 @@
-Introduction
+This is a repository created by Josiah!!!
 
-This is a repository created by Josiah
-
-Usage
-
-Run this command to execute the application:
-
-main.py
+Usage: This repository is a sample for a return/exchange item service
 
